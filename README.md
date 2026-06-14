@@ -84,5 +84,3 @@ Through this project, I gained hands-on experience in:
 * Writing DAX measures and calculated columns.
 * Designing KPI cards and business reports.
 * Transforming raw data into meaningful insights.
-
-### ⭐ If you found this project useful, feel free to explore the repository and provide feedback.
